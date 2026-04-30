@@ -64,6 +64,23 @@ streamlit run app.py
 
 
 
+## 🔍 Model Explainability (Grad-CAM)
+
+To improve transparency, Grad-CAM (Gradient-weighted Class Activation Mapping) was used to visualize which regions of the X-ray image influenced the model’s decision.
+
+This helps in understanding why the model predicts Pneumonia or Normal.
+
+
+## 🔍 Model Explainability (Grad-CAM)
+
+Grad-CAM (Gradient-weighted Class Activation Mapping) is used to visualize which regions of the X-ray image influence the model's prediction.
+
+### Pneumonia Case
+![GradCAM Pneumonia](images/gradcam_pneumonia.png)
+
+
+
+
 ## ⚠️ Disclaimer
 This project is for educational purposes only and should NOT be used for real medical diagnosis.
 
