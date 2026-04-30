@@ -50,6 +50,20 @@ streamlit run app.py
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](images/home.png)
+
+### 📤 Upload X-ray Image
+![Upload](images/upload.png)
+
+### 🧠 Prediction Result
+![Result](images/result.png)
+
+
+
+
 ## ⚠️ Disclaimer
 This project is for educational purposes only and should NOT be used for real medical diagnosis.
 
